@@ -1,0 +1,145 @@
+----------------------------------------------
+------Rage face smiley theme for Pidgin------
+----------------------------------------------
+
+Changelog:
+1.10:
+ - Added yet more faces, removed a couple rarely used ones.
+
+1.9:
+ - Fixed :act, added a few new faces
+
+1.8:
+ - Added some new faces, special surprise for willis
+
+1.7:
+ - 8 new faces
+
+1.6:
+ - 11 new faces added
+ - Several never-used faces removed
+
+1.5:
+ - Updated setup instructions
+ - Added awesomeface and dancing troll
+
+1.4:
+ - Added look of dissaproval
+
+1.3:
+ - Added every smile I could think of
+
+1.2:
+ - Added more smiles
+
+1.1:
+ - Added some smiles
+
+1.0:
+ - Initial revision
+
+Setup Instructions:
+1) Decompress archive to %APPDATA%\.purple\smileys (if you're using Windows) or ~/.purple/smileys (if you're using Linux/*nix).
+2) Restart Pidgin (maybe, sometimes you don't need to).
+3) Select theme in preferences.
+4) PROFIT!!!
+
+Cheat sheet:
+actually            :act
+awesome             :awesome
+awyeah              :ay
+babytroll           :baby
+badpokerface        :badpoker
+baww                :baww
+biggrin             :grin
+cereal              :cereal
+cerealspitting      :spit
+challengeaccepted   :ca
+closeenough         :ce
+cochran             :cochran
+dance               :dance
+datash              :datash
+derp                :derp
+determined          :determined
+disgusted           :disgust
+down                :down
+dudecomeon          :dude
+ewbte               :ewbte
+excitedtroll        :et
+falbulous           :fal
+fapfap              :fap
+feelsgood           :fg
+fffuuu              :fuuu
+foreveralone        :fa
+friends             :friends
+fu                  :rich
+fuckyea             :fyea
+fullpanel           :fff
+fumanchu            :fum
+gasp                :gasp
+gaytroll            :gay
+gtfo                :gtfo
+happy               :happy
+hehehe              :hehehe
+herpderp            :herp
+high                :high
+highexpectations    :he
+iamdisappointed     :disappoint
+itsnotokay          :notok
+jackiechan          :jc
+kidding             :kidding
+lied                :lie
+lod                 :lod
+lolnotext           :lol
+mad                 :mad
+megusta             :mg
+melvin              :m
+milk                :milk
+mouthopen           :mouthopen
+newspaperguy        :np
+newspaperguytear    :newstear
+no                  :no
+notbad              :notbad
+ohno                :ohno
+okay                :ok
+openmouth           :openmouth
+pffftcchchchhfffttt :pff
+pickle              :pickle
+pokerface           :poker
+problem             :t
+racket              :racket
+rage2               :rage
+redeyes             :redeyes
+sadmelvin           :sadm
+sadtroll            :st
+shocked             :sh
+sidemouth           :side
+smirk               :smirk
+somuchwin           :win
+staredad            :sd
+steve               :steve
+stfi                :stfi
+suspicious          :susp
+tdadjump            :tdadjump
+thoughtful          :th
+tongue              :tongue
+trolldad            :tdad
+truestory           :ts
+underbite           :ub
+upvote              :up
+wasted              :wasted
+waterbottle         :water
+what                :what
+whywithhands        :why
+wut                 :wut
+yam                 :yam
+yaoming             :yao
+yuno                :yuno
+all                 :all
+flip                :flip
+god                 :god
+impossibru          :impossibru
+badass              :badass
+picard              :picard
+ogw                 :ogw
+aliens              :aliens
