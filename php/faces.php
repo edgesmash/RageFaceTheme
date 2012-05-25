@@ -100,6 +100,8 @@ $code[94] = "/:badass/";
 $code[95] = "/:picard/";
 $code[96] = "/:ogw/";
 $code[97] = "/:aliens/";
+$code[98] = "/sad.png					:sad/";
+$code[99] = "/wat.jpg					:wat/";
 
 $img = array();
 $img[0] = "<img src=\"troll/actually.png\" alt=\"!act\" />";
@@ -200,6 +202,8 @@ $img[94] = "<img src=\"troll/badass.png\" alt=\"!badass\" />";
 $img[95] = "<img src=\"troll/picard.png\" alt=\"!picard\" />";
 $img[96] = "<img src=\"troll/ogw.png\" alt=\"!ogw\" />";
 $img[97] = "<img src=\"troll/aliens.jpg\" alt=\"!aliens\" />";
+$img[98] = "<img src=\"troll/sad.png					:sad\" alt=\"!sad.png					sad\" />";
+$img[99] = "<img src=\"troll/wat.jpg					:wat\" alt=\"!wat.jpg					wat\" />";
 
 
   return preg_replace($code, $img, $quote);
