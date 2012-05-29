@@ -10,7 +10,7 @@ To alter the theme:
 
 To generate the archives, php, and xml:
  1) Run the powershell script "Generate archives.ps1".
- 2) The two archives are created in tar.gz files, as well as the xml and php files (in the xml and php folders).
+ 2) The archives are created in zip files, as well as the xml and php files (in the xml and php folders).
 
 Prerequisites:
  - Powershell
