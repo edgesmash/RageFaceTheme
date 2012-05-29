@@ -4,7 +4,11 @@
 RageFace.colloquyEmoticons/Contents/Resources/*
 troll-colloquy.tar.gz
 troll-pidgin.tar.gz
+troll-colloquy.zip
+troll-pidgin.zip
+RageFaces.AdiumEmoticonset.zip
 xml/*
+adium/RageFaces.AdiumEmoticonset/*
 
 #################
 ## Eclipse
