@@ -42,6 +42,8 @@
 *.fsx text=auto
 *.hs text=auto
 
+*.ps1 diff merge -crlf
+
 *.csproj text=auto merge=union 
 *.vbproj text=auto merge=union 
 *.fsproj text=auto merge=union 
