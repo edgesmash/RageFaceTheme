@@ -3,6 +3,19 @@
 ----------------------------------------------
 
 Changelog:
+1.14:
+ - Added :kobe, :shaq, :clint, along with two me-faces.
+
+1.13:
+ - Added :wizard.
+
+1.12:
+ - Added the :dolan, :mind, :popcorn, :clap and :deal faces
+ - Faces now listed in size order, biggest to smallest, in all but pidgin. 
+ 
+Notes:
+ - I've noticed some oddities with the animated gifs in GTK+/Pidgin. Let me know if you see anything weird.
+
 1.11:
  - Added ":sad", made all files lowercase. 
 
