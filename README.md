@@ -1,0 +1,18 @@
+----------------------------------------
+README for RageFaceTheme
+----------------------------------------
+
+There is no warranty for this software. I just made it because I was bored. You're on your own. 
+
+To alter the theme:
+ 1) Make the changes in the "troll" directory (which is the source directory for the pidgin theme)
+ 2) That's it, you're done!
+
+To generate the archives, php, and xml:
+ 1) Run the powershell script "Generate archives.ps1".
+ 2) The archives are created in zip files, as well as the xml and php files (in the xml and php folders).
+
+Prerequisites:
+ - Powershell
+ - Powershell community extension (http://pscx.codeplex.com/)
+ - A sense of hilarity
