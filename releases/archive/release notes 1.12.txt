@@ -1,0 +1,6 @@
+Changes:
+ - Added the :dolan, :mind, :popcorn, :clap and :deal faces
+ - Faces now listed in size order, biggest to smallest, in all but pidgin. 
+ 
+Notes:
+ - I've noticed some oddities with the animated gifs in GTK+/Pidgin. Let me know if you see anything weird.

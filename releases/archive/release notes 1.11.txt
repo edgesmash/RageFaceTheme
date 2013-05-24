@@ -1,0 +1,7 @@
+Changes:
+ - Added the :sad and :wat faces
+ - Updated all filenames for the faces to be lowercase (should improve compatibility on linux)
+ - Ensured all face files were in the colloquy package
+ 
+Notes:
+ - You may have to clear your install directory before installing this update, or the new lowercase filenames may not appear (I only tested this in Windows).
